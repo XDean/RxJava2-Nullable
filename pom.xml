@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.XDean</groupId>
 	<artifactId>rx2-nullable</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 	<url>https://github.com/XDean/rx2-nullable</url>
 	<name>RxJava2 Nullable</name>
